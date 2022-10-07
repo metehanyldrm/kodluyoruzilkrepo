@@ -6,7 +6,9 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-`git clone git@github.com:metehanyldrm/kodluyoruzilkrepo.git`
+```javascript
+git clone git@github.com:metehanyldrm/kodluyoruzilkrepo.git
+```
 
 ## Usage
 
